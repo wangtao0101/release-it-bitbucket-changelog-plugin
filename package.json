@@ -1,6 +1,6 @@
 {
   "name": "release-it-bitbucket-changelog-plugin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Using for generator changelog for host bitbucket",
   "main": "index.js",
   "scripts": {
